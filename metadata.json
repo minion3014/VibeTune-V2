@@ -1,0 +1,5 @@
+{
+  "name": "VibeTune",
+  "description": "A modern music player with lyric sync and local folder support.",
+  "requestFramePermissions": []
+}

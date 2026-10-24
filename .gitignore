@@ -1,0 +1,27 @@
+# deps
+node_modules
+
+# env
+.env*
+
+# build
+dist
+build
+
+# logs
+logs
+*.log
+npm-debug.log*
+
+# cache
+.cache
+.tmp
+*.tsbuildinfo
+
+# system
+.DS_Store
+
+# editor
+.vscode/*
+!.vscode/extensions.json
+.idea
